@@ -9,7 +9,7 @@ jobs:
     
     defaults: 
       run:
-        working-directory: MvcApp/MvcWebApp
+        working-directory: ./MvcWebApp
     
     steps:
       - name: Checkout Code
